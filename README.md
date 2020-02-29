@@ -22,41 +22,6 @@ CoreUI is based on Bootstrap 4 and offers 6 versions: [HTML5 AJAX](https://githu
 
 CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer ultimate user experience. This means mobile devices also, where the navigation is just as easy and intuitive as on a desktop or laptop. The CoreUI Layout API lets you customize your project for almost any device – be it Mobile, Web or WebApp – CoreUI covers them all!
 
-## Table of Contents
-
-* [Versions](#versions)
-* [CoreUI Pro](#coreui-pro)
-* [Admin Templates built on top of CoreUI Pro](#admin-templates-built-on-top-of-coreui-pro)
-* [Installation](#installation)
-* [Usage](#usage)
-* [What's included](#whats-included)
-* [Documentation](#documentation)
-* [Contributing](#contributing)
-* [Versioning](#versioning)
-* [Creators](#creators)
-* [Community](#community)
-* [Community Projects](#community-projects)
-* [License](#license)
-* [Support CoreUI Development](#support-coreui-development)
-
-## Versions
-
-CoreUI is built on top of Bootstrap 4 and supports popular frameworks.
-
-* [CoreUI Free Bootstrap Admin Template](https://github.com/coreui/coreui-free-bootstrap-admin-template)
-* [CoreUI Free Bootstrap Admin Template (Ajax)](https://github.com/coreui/coreui-free-bootstrap-admin-template-ajax)
-* [CoreUI Free Angular 2+ Admin Template](https://github.com/coreui/coreui-free-angular-admin-template)
-* 🚧 CoreUI Free .NET Core 2 Admin Template (Available Soon)
-* [CoreUI Free React.js Admin Template](https://github.com/coreui/coreui-free-react-admin-template)
-* [CoreUI Free Vue.js Admin Template](https://github.com/coreui/coreui-free-vue-admin-template)
-
-## CoreUI Pro
-
-* 💪  [CoreUI Pro Bootstrap Admin Template](https://coreui.io/pro/)
-* 💪  [CoreUI Pro Bootstrap Admin Template (Ajax)](https://coreui.io/pro/)
-* 💪  [CoreUI Pro Angular Admin Template](https://coreui.io/pro/angular)
-* 💪  [CoreUI Pro React Admin Template](https://coreui.io/pro/react)
-* 💪  [CoreUI Pro Vue Admin Template](https://coreui.io/pro/vue)
 
 ## Admin Templates built on top of CoreUI Pro
 
