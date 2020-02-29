@@ -126,14 +126,12 @@ See [the Releases section of our project](https://github.com/coreui/coreui-free-
 
 ## Creators
 
-**Łukasz Holeczek**
+**Sajjal Nair**
 
-* <https://twitter.com/lukaszholeczek>
-* <https://github.com/mrholek>
+**Rashi Gupta**
 
-**Andrzej Kopański**
 
-* <https://github.com/xidedix>
+**Shikhar Varshney**
 
 ## Community
 
